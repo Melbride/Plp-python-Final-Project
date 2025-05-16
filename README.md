@@ -5,8 +5,6 @@ This project analyzes global COVID-19 data using Python and visualizes key metri
 ## 📌 Objectives
 
 - Clean and process COVID-19 data from [Our World in Data](https://www.kaggle.com/datasets/caesarmario/our-world-in-data-covid19-dataset)
-- - Clean and process COVID-19 data from [Our World in Data](https://ourworldindata.org/coronavirus)
-
 - Analyze total and daily trends in cases, deaths, and vaccinations
 - Visualize key metrics using line charts, bar plots, and choropleth maps
 - Calculate critical indicators like death rate and vaccination rate
